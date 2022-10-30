@@ -13,4 +13,4 @@ const getAllComments = async () => {
 
 // console.log(getAllComments())
 
-export default getAllComments
+module.exports = getAllComments
